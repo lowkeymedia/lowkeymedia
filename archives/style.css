@@ -1,0 +1,92 @@
+body{
+background-color: black;
+background-size: cover;
+background-attachment: fixed;
+line-height: 1.5;
+
+}
+
+div{
+    display:block;
+    
+}
+.container {
+    border-radius: 25px;
+    background: rgba(255, 255, 255, 0.7);
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family: Jellyka Delicious Cake;
+    font-size: 112px;
+    margin: 0 auto;
+    padding: .5em;
+    color:white;
+}
+h3{
+    text-align: center;
+    font-family: Jellyka Delicious Cake;
+    margin: 0 auto;
+    padding: .5em;
+    color:white;
+}
+
+a{
+    float: left;
+    
+}
+
+.col-w200{
+    width: 200px
+    margin-right: 50px;
+    padding: 1.5em;
+}
+.float-l{
+    float:left;
+}
+.float-r{
+    float:right;
+}
+
+p{
+    clear: both;
+    font-family: HelveticaNeue-Light;
+
+}
+/*navigation*/ 
+
+ul {
+    list-style-type: none;
+    margin: 0px 150px;
+    padding: 0;
+    overflow: hidden;
+    border-radius: 25px;
+    position: fixed;
+    
+}
+
+li {
+    border-radius: 25px;
+    padding-right: 7em;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    color: white;
+    font-family: HelveticaNeue-Light;
+    text-decoration: none;
+    text-transform: uppercase;
+
+
+}
+
+a:hover {
+    font-weight:bold;
+
+
