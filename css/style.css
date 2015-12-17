@@ -70,6 +70,15 @@ ul {
     
 }
 
+#arch{
+    list-style-type: none;
+    margin: 0px 150px;
+    padding: 0;
+    overflow: hidden;
+    border-radius: 25px;
+} 
+
+
 li {
     border-radius: 25px;
     padding-right: 7em;
