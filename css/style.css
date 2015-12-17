@@ -27,6 +27,12 @@ h1{
     margin: 0 auto;
     padding: .5em;
 }
+h3{
+    text-align: center;
+    font-family: Jellyka Delicious Cake;
+    margin: 0 auto;
+    padding: .5em;
+}
 
 a{
     float: left;
