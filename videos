@@ -1,0 +1,55 @@
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Archives</title>
+	<link rel="icon" type="img/gif" href="https://cloud.githubusercontent.com/assets/7751165/11792398/eeedec98-a273-11e5-936c-3bf49f63b6b7.jpg">
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href="css/style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+	<h1>Lowkey Media</h1>
+	<h3>Archives</h3>
+	<div>
+		<ul>
+  			<li><a href="#home">Home</a></li>
+  			<li><a href="#news">News</a></li>
+  			<li><a href="#videos">Videos</a></li>
+  			<li><a href="#about">About</a></li>
+		</ul>
+	</div>
+	
+
+   
+	
+	<div class="container" id='container1'>
+		<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232471483&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+        </div>
+        
+        
+        <div class="container" id="container2">
+		<div class="col-w200 float-l">
+			<a class="twitter-timeline" href="https://twitter.com/WeezaLeo" data-widget-id="676576290887995395">Tweets by @WeezaLeo</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</a>
+		</div>
+		<div class="col-w200 float-l">
+			<iframe src="http://www.datpiff.com/embed/mb012d30/" width="300" height="600" frameborder="0"></iframe>
+		</div>
+		
+		<p>Its a never been done thing.</p>
+	</div>
+        	
+        
+        <div class="container" id="container3">
+        	<!--<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/_LZksJG-_O/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">📸 @kaitlynferris_</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by @weezaleo on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-12-12T04:19:58+00:00">Dec 11, 2015 at 8:19pm PST</time></p></div></blockquote>
+		<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>-->
+<iframe src="http://snapwidget.com/in/?u=d2VlemFsZW98aW58MTI1fDN8M3x8bm98NXxmYWRlT3V0fG9uU3RhcnR8eWVzfG5v&ve=141215" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:390px; height:390px"></iframe>
+        </div>
+        </body>
+</html>
