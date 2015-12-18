@@ -99,15 +99,37 @@ a:hover {
     font-weight:bold;
 }
 
-.panel-tile{
-    font-weight: bold;
-    background: #870126;
-    color: white;
-    padding: 0.5em 1em;
-    cursor: pointer;
-    margin-bottom: 0.25em;
-    border-radius: 0.5em;
+/*panels*/
+
+
+.panels {
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
+.panel {
+  margin-bottom: 1em;
+  background: white;
+}
+
+.panel-title {
+  font-weight: bold;
+  background: #870126;
+  color: white;
+  padding: 0.5em 1em;
+  cursor: pointer;
+  margin-bottom: 0.25em;
+  border-radius: 0.5em;
+}
+
+.panel-title:hover {
+  background: #333;
+}
+
+.panel-content {
+  padding: 1em;
+  display: none;
+}
+
     
     
 
